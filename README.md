@@ -8,7 +8,7 @@ It is a Windows keylogger undetected by all major anti-virus.
 
 This keylogger is undetected by 99% of the anti-virus on [**virustotal**](https://www.virustotal.com/gui/).
 
-<img src="[Capture1.PNG]https://raw.githubusercontent.com/clementwzk/Windows-Keylogger/refs/heads/main/Capture1.PNG" width="500"/>
+<img src="https://raw.githubusercontent.com/clementwzk/Windows-Keylogger/refs/heads/main/Capture1.PNG" width="500"/>
 
 ## Installation
 
