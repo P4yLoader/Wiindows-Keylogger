@@ -6,7 +6,7 @@ It is a Windows keylogger undetected by all major anti-virus.
 
 ## Virustotal
 
-This keylogger is undetected by 99% of the anti-virus on [**virustotal**](https://www.virustotal.com/gui/).
+This keylogger is undetected by 99% of the anti-virus on [**virustotal**]([https://www.virustotal.com/gui/](https://github.com/clementwzk/Windows-Keylogger/blob/main/Capture1.PNG?raw=true)).
 
 <img src="[Capture1.PNG" width="500](https://github.com/clementwzk/Windows-Keylogger/blob/main/Capture1.PNG)"/>
 
